@@ -2,7 +2,7 @@
 Hooks lifecycle (II), routing with RRD v6, Context API
 
 ## Hooks lifecycle
-Es posible asociar un efecto a cada una de las fases del ciclo de vida de un componente a través del hook `useEffect()`:
+Es posible asociar un efecto a cada una de las fases del ciclo de vida de un componente a través del hook `useEffect()` ([docs oficiales](https://es.reactjs.org/docs/hooks-effect.html)):
 
 ### Fase de montaje (mounting)
 El array argumentado en segunda posición se mantiene presente, pero vacío
